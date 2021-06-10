@@ -1,0 +1,6 @@
+5
+135,Armado y rep de Computadoras,20,850
+247,Ingles nivel A1,25,700
+321,Jardineria,15,800
+417,Cocina y Nutricion,15,1000
+594,Nociones de educacion financiera,30,800
